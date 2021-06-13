@@ -827,10 +827,8 @@ _________________________________
        previously used activator (some file patch method also creates firewall entries).
 
      - Some security programs may block this script, this is false-positive, as long as you 
-       downloaded the file from original post (mentioned below in this page), temporary suspend
-       Antivirus realtime protection, or exclude the downloaded file/extracted folder from scanning.
-
-     - If you are still facing any issues, please contact me (mentioned below in this page).
+       downloaded the file from original post, temporary suspend Antivirus realtime protection, 
+       or exclude the downloaded file/extracted folder from scanning.
 
 
 ____________________________________________________________________________________________________
